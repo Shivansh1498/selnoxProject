@@ -1,0 +1,21 @@
+body {
+  --color-primary-heading: #314363;
+
+  /* Input Field Colors */
+  --color-primary-input-field-label: #263857;
+  --color-primary-input-field-background: #f8fbff;
+  --color-primary-dropshadow: #d2d1d140;
+
+  /* Button Colors */
+  --color-text-primary-button: #263857;
+  --color-background-primary-button: #e3e3e3;
+  --color-text-secondary-button: #142a51;
+  --color-background-secondary-button: #ffffff;
+  --color-text-secondary-button-hover: #ffffff;
+  --color-background-secondary-hover: #263857;
+
+  /* Table Colors */
+  --color-primary-table-header: #263857;
+  --color-primary-table-details: #7e98ba;
+  --color-primary-table-border: #d5d5d5;
+}

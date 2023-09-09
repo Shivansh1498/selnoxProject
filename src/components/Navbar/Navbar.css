@@ -1,0 +1,33 @@
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 1.95px 2.6px;
+  height: 56px;
+  overflow: hidden;
+  padding-inline: 20px;
+}
+
+.navbar-container .logo-section img {
+  height: 37px;
+  width: auto;
+}
+
+.navbar-container .menu-section ul {
+  display: flex;
+  gap: 30px;
+}
+
+.navbar-container .menu-section ul a {
+  all: unset;
+}
+
+.navbar-container .menu-section ul .active {
+  color: #314363;
+  text-decoration: underline;
+}
+
+.navbar-container .menu-section ul li {
+  list-style-type: none;
+  cursor: pointer;
+}
